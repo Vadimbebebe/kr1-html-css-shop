@@ -1,0 +1,10 @@
+*   [33m89e1f08[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m Merge pull request #2 from Vadimbebebe/feature/html-css-start-page
+[31m|[m[32m\[m  
+[31m|[m * [33m0b82a41[m[33m ([m[1;31morigin/feature/html-css-start-page[m[33m, [m[1;32mfeature/html-css-start-page[m[33m)[m feat: add semantic HTML structure and base CSS styles
+[31m|[m[31m/[m  
+*   [33maf97036[m Merge pull request #1 from Vadimbebebe/feature/start-page
+[33m|[m[34m\[m  
+[33m|[m * [33m318ebfb[m[33m ([m[1;31morigin/feature/start-page[m[33m, [m[1;32mfeature/start-page[m[33m)[m feat: add project description section
+[33m|[m[33m/[m  
+* [33m818822e[m docs: add project status to README
+* [33m04c6bb4[m feat: initialize frontend project structure
